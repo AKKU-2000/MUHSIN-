@@ -1,7 +1,4 @@
 print("my  first name");
-print("my  first name");
-print("my  first name");
-print("my  first name");
-print("my  first name");
-print("my  first name");
-print("my  first name");
+print("my  fsecond name");
+print("my  therid name");
+print("my   fourth  name");
